@@ -1,0 +1,40 @@
+html {
+  background: black;
+  text-align: center;
+}
+
+h1,
+h2,
+p,
+span {
+  font-family: Verdana;
+}
+
+h1,
+h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42pt;
+  font-weight: 300;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.link {
+  font-size: 16px;
+  color: aqua;
+  }
+
+.footer {
+  text-align: right;
+}
